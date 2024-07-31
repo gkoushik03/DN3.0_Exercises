@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "App",
+            "request": "launch",
+            "mainClass": "payment.App",
+            "projectName": "AdapterPattern"
+        },
+        {
+            "type": "java",
+            "name": "BuilderPaattern",
+            "request": "launch",
+            "mainClass": "computer.BuilderPaattern",
+            "projectName": "BuilderPattern"
+        },
+        {
+            "type": "java",
+            "name": "CommandPatternTest",
+            "request": "launch",
+            "mainClass": "light.CommandPatternTest",
+            "projectName": "CommandPattern"
+        },
+        {
+            "type": "java",
+            "name": "App(1)",
+            "request": "launch",
+            "mainClass": "notification.App",
+            "projectName": "DecoratorPattern"
+        },
+        {
+            "type": "java",
+            "name": "DependencyInjectionTest",
+            "request": "launch",
+            "mainClass": "customer.DependencyInjectionTest",
+            "projectName": "DependencyInjection"
+        },
+        {
+            "type": "java",
+            "name": "FactoryMethodPattern",
+            "request": "launch",
+            "mainClass": "document.FactoryMethodPattern",
+            "projectName": "FactoryMethod"
+        },
+        {
+            "type": "java",
+            "name": "MVC_PatternTest",
+            "request": "launch",
+            "mainClass": "student.MVC_PatternTest",
+            "projectName": "MVC_Pattern"
+        },
+        {
+            "type": "java",
+            "name": "ObserverPatternTest",
+            "request": "launch",
+            "mainClass": "mobile.ObserverPatternTest",
+            "projectName": "ObserverPattern"
+        },
+        {
+            "type": "java",
+            "name": "ProxyPatternTest",
+            "request": "launch",
+            "mainClass": "image.ProxyPatternTest",
+            "projectName": "ProxyPattern"
+        },
+        {
+            "type": "java",
+            "name": "SingletonPattern",
+            "request": "launch",
+            "mainClass": "logger.SingletonPattern",
+            "projectName": "SingletonPattern"
+        },
+        {
+            "type": "java",
+            "name": "StrategyPatternTest",
+            "request": "launch",
+            "mainClass": "payment.StrategyPatternTest",
+            "projectName": "StrategyPattern"
+        }
+    ]
+}
